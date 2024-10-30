@@ -33,7 +33,7 @@ setuptools.setup(
     install_requires=[
         "torch>=1.7.1",
         "torchvision>=0.8.2",
-        "opencv-python>=4.6.0.66",
+        "opencv-python-headless>=4.6.0.66",
         "timm>=0.6.11",
         "tqdm>=4.64.1",
         "kornia>=0.5.4",
